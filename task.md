@@ -2,4 +2,5 @@
 ### ①VPCの作成  
 "AWS-Tutorial-vpc"という名称のVPCを作成しました。  
 詳細は以下の画像となります。  
-![VPC詳細](/AWS_4_repository/picture/VPC詳細.jpg)  
+<img alt="VPC詳細" src="/..%2F..%2F..%2FPictures%2FScreenshots%2F%83%58%83%4E%83%8A%81%5B%83%93%83%56%83%87%83%62%83%67%20%28518%29.png"/>  
+<img alt="スクリーンショット (518).png" src="..%2F..%2F..%2FPictures%2FScreenshots%2F%83%58%83%4E%83%8A%81%5B%83%93%83%56%83%87%83%62%83%67%20%28518%29.png"/>
